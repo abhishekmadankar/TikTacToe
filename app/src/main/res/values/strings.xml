@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="welcome_to_tik_tak_toe">Welcome to Tik Tak Toe</string>
+    <string name="our_main_grid">Our main grid</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="status">X\'s Turn - Tap to play</string>
+</resources>
